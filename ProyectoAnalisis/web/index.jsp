@@ -26,6 +26,7 @@
 
         </form>
 
+        <button id="generar">Generar</button>
         <button id="enviar">Enviar</button>
         <button id="breakpoint">breakpoint</button>
     </body>
